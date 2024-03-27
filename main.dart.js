@@ -25967,7 +25967,7 @@ while(true)switch(s){case 0:n=A
 s=2
 return A.W($.Fn().jw(0,"/home/ahmad/Documents/Bright_Projects/Web-NFC/nfc_app/assets/images/profile.jpg"),$async$WA)
 case 2:p=n.e2(e.buffer,0,null)
-o=(self.URL||self.webkitURL).createObjectURL(A.aDA(A.b(["BEGIN:VCARD\nVERSION:3.0\nFN:"+a+"\nTEL;TYPE=WORK:"+c+"\nEMAIL:"+b+"\nURL:https://ahmadroshanfar.github.io/new-flutter-nfc/\nPHOTO;MEDIATYPE=image/jpeg;ENCODING=BASE64:"+B.kZ.gFh().ez(p)+"\nNOTE:SALAM\nEND:VCARD\n"],t.s)))
+o=(self.URL||self.webkitURL).createObjectURL(A.aDA(A.b(["BEGIN:VCARD\nVERSION:3.0\nFN:"+a+"\nTEL;TYPE=WORK:"+c+"\nEMAIL:"+b+"\nURL:https://ahmadroshanfar.github.io/new-flutter-nfc/\nPHOTO;TYPE=JPEG;ENCODING=BASE64:"+B.kZ.gFh().ez(p)+"\nNOTE:SALAM\nEND:VCARD\n"],t.s)))
 o.toString
 q=document.createElement("a")
 q.href=o
