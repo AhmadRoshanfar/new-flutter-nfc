@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.nfc_app",
+    "sha256_cert_fingerprints":
+    ["FF:DA:90:A7:8A:A6:FC:F1:4B:8C:56:E0:0F:4C:88:08:B6:13:EE:47:7A:ED:CF:F9:A9:30:60:E9:31:ED:26:D0"]
+  }
+}]
