@@ -96221,7 +96221,7 @@ A.tf.prototype={$iab:1}
 A.a1k.prototype={}
 A.mq.prototype={
 B9(){var s,r,q
-try{this.a=A.aW_(A.cO("wss://nfcserver.embeddedai.info:8283/",0,null),null)}catch(r){s=A.ai(r)
+try{this.a=A.aW_(A.cO("ws://nfcserver.embeddedai.info:8283/",0,null),null)}catch(r){s=A.ai(r)
 A.fB(s)}q=this.a
 q.toString
 return q},
